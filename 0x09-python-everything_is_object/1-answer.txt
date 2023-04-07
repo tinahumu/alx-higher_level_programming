@@ -1,6 +1,1 @@
-#!/usr/bin/python3
 id
-
-a = "Hello, World!"
-print(id(a))
-
