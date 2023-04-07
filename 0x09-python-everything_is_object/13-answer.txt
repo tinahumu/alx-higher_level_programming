@@ -1,2 +1,1 @@
-#!/usr/bin/pthon3
 True
